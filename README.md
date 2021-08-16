@@ -7,7 +7,7 @@ The opcode has only been tested on Linux as of writing.
 
 ## Requirements
  - Csound development libraries 6.14.0 or later
- - Cmake 3.8 or later
+ - Cmake 2.8.12 or later
 
 
 ## Building
